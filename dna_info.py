@@ -1,0 +1,13 @@
+a = input()
+b = len(a)
+A = a.count("A")
+T = a.count("T")
+G = a.count("G")
+C = a.count("T")
+GC = (G + C) / (A + T + G + C)
+print ("Sequence: " + a)
+print ("Length: " + str(b))
+print ("G: " + str(b))
+print ("C: " + str(C))
+print ("GC: " + str(GC * 100))
+

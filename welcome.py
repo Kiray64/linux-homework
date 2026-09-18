@@ -1,0 +1,6 @@
+a = input("Name: ")
+b = input("Group: ")
+c = input("Age: ")
+print ("Name: " + a)
+print ("Group: " + b)
+print ("Age: " + c)
