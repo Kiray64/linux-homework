@@ -1,0 +1,4 @@
+rna = input()for i in range(0, 0000000len(rna)/3):
+	for pose, base in enumerate(rna, start = i, stop = i + 2):
+		if 
+
